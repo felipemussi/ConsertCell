@@ -3,7 +3,7 @@ import pandas as pd
 import sqlite3
 from datetime import date
 import io
-import plotly.express as px  # Adicionado para gráficos profissionais
+# Adicionado para gráficos profissionais
 
 # --- CONFIGURAÇÃO E BANCO DE DADOS ---
 st.set_page_config(page_title="Financeiro Ultimate", layout="wide", page_icon="💎")
